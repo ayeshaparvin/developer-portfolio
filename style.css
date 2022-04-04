@@ -46,3 +46,32 @@ h1{
     background-repeat: no-repeat;
     background-position: left;
 }
+.ex{
+    width: 40%;
+   box-shadow: 16px 15px 13px  grey;
+   border-radius: 10px;
+   margin-right: 5%;
+   margin-left: 5%;
+   padding-right: 5%;
+   
+}
+
+.content{
+    text-align: justify;
+}
+#full-web{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    
+}
+#baby-web {
+    border-left: 10px solid;
+    border-image: linear-gradient(orange, cyan);
+    border-image-slice: 1;
+
+}
+footer {
+    color: grey;
+    text-align: center;
+}
